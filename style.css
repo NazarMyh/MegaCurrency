@@ -1,0 +1,39 @@
+img {
+    width: 50%;
+    height: 50%;
+    float: left;
+    position: relative;
+    right: 20px;
+}
+.right {
+    position: relative;
+    left: 20px;
+    float: right;
+    border: thick double darkgoldenrod;
+}
+.img1 {
+    border: thick double lightblue;
+}
+.img2 {
+    border: thick double lightgreen;
+}
+.Mini {
+    color: lightblue;
+}
+.Mega {
+    color: darkgoldenrod;
+}
+.Giga {
+    color: lightgreen;
+}
+hr {
+    position: relative;
+    right: 5px;
+}
+.hr {
+    position: relative;
+    left: 30px;
+}
+html {
+    overflow-x: hidden;
+}
